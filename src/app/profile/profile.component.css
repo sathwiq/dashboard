@@ -1,0 +1,16 @@
+.toolColor{
+
+    margin-left: 5%;
+    margin-right:5%;
+
+  }
+  mat-form-field {
+    width: 100%;
+  }
+  
+  mat-spinner {
+    margin: auto;
+  }
+  button{
+    outline: none;
+}
